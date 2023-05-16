@@ -1,8 +1,8 @@
-\# Système de gestion de documents électroniques pour un bureau d'expert-comptable
+# Système de gestion de documents électroniques pour un bureau d'expert-comptable
 
 Ce projet a pour but de permettre aux utilisateurs de choisir une mission de comptabilité et de transférer leurs factures électroniquement au bureau d'expert, tout en répartissant les tâches selon les employés du cabinet. Les technologies utilisées sont HTML/CSS, JavaScript, PHP et MySQL pour la gestion de la base de données.
 
-\# Fonctionnalités
+# Fonctionnalités
 
 Le système permet aux utilisateurs de réaliser les actions suivantes :
 
@@ -22,6 +22,6 @@ Pour installer et utiliser le système, vous devez suivre les étapes suivantes 
 1. Configurer les paramètres de connexion à la base de données dans le fichier config.php
 1. Accéder au système via un navigateur web
 
-\# Contributeurs
+# Contributeurs
 
 Ismail Benkraiem (ismailbk1)
