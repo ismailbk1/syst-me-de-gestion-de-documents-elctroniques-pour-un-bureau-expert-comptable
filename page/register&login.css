@@ -1,0 +1,46 @@
+.register{
+    height:700px; 
+    
+  position: relative;
+     justify-content:center;
+    align-items :center; 
+    
+    text-align: center;
+ }
+ .title {
+    position: relative;
+    top: 10px;
+    background-color: #1c7440;
+    
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    padding-top: 29px 0;
+    margin: auto;
+    padding: 15px 0;
+}
+form span{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 4px;
+   }
+   form input{
+       width:100%;
+       padding: 7px;
+       border: none;
+       border: 1px solid gray;
+       border-radius: 6px;
+       outline: none;
+   }
+#submit{
+       width: 320px;
+       height: 35px;
+       margin-top: 20px;
+   }
+   #submit:hover{
+       color: rgb(0, 0, 0);
+       background-color: rgb(38, 117, 65);
+   }
